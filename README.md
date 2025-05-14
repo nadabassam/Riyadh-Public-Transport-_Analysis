@@ -77,6 +77,6 @@ The project utilizes 5 datasets sourced from Riyadh's open transport data portal
 
 ## 📬 Contact
 
-Created by: *[Your Name]*  
-For inquiries or feedback, reach out via GitHub or [your email].
+Created by: *Nada Khalil*  
+For inquiries or feedback, reach out via GitHub or nada-bassam2@hotmail.com.
 
